@@ -1,0 +1,1 @@
+console.log("Hello World, this is Tisighe Livinstone Khan with HNGi7 ID [02494] using [JavaScript] for stage 2 task");
